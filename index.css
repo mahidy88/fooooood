@@ -1,0 +1,573 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.header-banner{
+    background: #ffb30e;
+    margin-bottom: 60px;
+
+}
+
+.banner-title{
+    color:whitesmoke;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 45px;
+}
+
+.banner-text{
+    font-family: 'Source Sans Pro', sans-serif;
+    color:#616161;
+    font-size: 28px;
+    font-weight: bold;
+
+}
+.banner-box{
+    border-radius: 7px;
+    background: cornsilk;
+    opacity: 0.8;
+    
+}
+
+.banner-btn{
+    background:lightsalmon;
+    color:linen;
+    padding:5px 10x;
+}
+
+.banner-searchbar{
+    border: none;
+    background: none;
+    margin-right: 5px;
+}
+.banner-searchbar:hover{
+    border: 2px solid gold;
+    outline: none;
+    border-radius: 7px;
+    transition: 0.3s;
+
+}
+
+.banner-btnn{
+    background:lightsalmon;
+    text-align: center;
+    color:linen
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.banner-img{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.banner-img:hover{
+   margin-top: 20px;
+   transition: 0.3s;
+}
+
+.discount-img{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+
+
+
+.discount-info{
+    background: #ffb30e;
+    text-align: center;
+    border-end-start-radius: 10px;
+    border-end-end-radius: 10px;
+    margin-bottom:8px;
+}
+
+.discount-title{
+    display: inline;
+    color:whitesmoke;
+    font-size: 60px;
+}
+
+.discount-text{
+    color:whitesmoke;
+    font-size: 30px;
+
+}
+.discount-msg1{
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+}
+.discount-msg2{
+    background:lemonchiffon;
+    border-radius: 7px;
+    color:tomato;
+    padding:4px 7px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+#work{
+    background:lightyellow
+}
+
+.work-title{
+    padding: 40px;
+    color:tomato;
+    font-weight: bold;
+}
+
+.work-info{
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+
+}
+
+#popular{    
+    background: lightyellow;
+}
+.popular-title{
+    font-weight: bold;
+    padding-top: 40px;
+}
+
+.popular-img{
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.name{
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+}
+.name-info{
+    color:#ffb30e;
+    font-size: 18px;
+}
+
+.price{
+    font-weight: bold;
+}
+
+.popular-btn{
+    background: tomato;
+    color:white;
+    font-weight: bold;
+    text-align: center; 
+    margin: auto;
+    display: block;
+    padding:4px 45px
+}
+
+.carousel-icon{
+    color:tomato;
+    background: white;
+    padding: 8px 12px;
+    border-radius: 90%;
+}
+
+
+
+.featured-title{
+    padding-top: 45px;
+    font-weight: bold;
+}
+
+.featured-img{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+
+}
+
+.featured-off{
+    text-align: center;
+    background: linear-gradient(50deg, #fb3c00, #ffb800);
+    color:white;
+    font-weight: bold;
+    padding:8px 10px;
+    border-end-start-radius: 10px;
+    border-end-end-radius: 10px;
+    margin-bottom: 10px;
+
+}
+.fast{   
+    margin-left: 10px;
+}
+
+.logo-title{
+    font-weight: bold;
+}
+
+.logo-info{
+
+
+    color:#ffb800;
+    font-weight: bold;
+}
+
+.logo-btn{
+    color: tomato;
+    background: lavenderblush;
+    font-weight: bold;
+}
+
+.logo-btn2{
+    color:rgb(101, 189, 101);
+    background: whitesmoke;
+    font-weight: bold;
+}
+
+.view-btn{
+    background: coral;
+    color: white;
+    padding:4px 55px
+}
+
+.search-food-title{
+    padding-top: 40px;
+    font-weight: bold;
+}
+
+.food-img{
+    border-radius: 90%
+}
+         
+.food-name{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 28px;
+    background: cornsilk;
+    color: coral;
+    border-radius: 10px;
+    padding:3px 15px
+}
+
+.food-icon{
+    color:crimson
+}
+
+
+.apps-banner{
+    background: linear-gradient(50deg, #fb3c00, #ffb800);
+    
+}
+
+
+.apps-bg{
+    background: linear-gradient(50deg, #fb3c00, #ffb800);
+    box-shadow: 4px 6px 7px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+
+}
+.apps-header-img{
+    margin-right: 7px;
+
+}
+
+.apps-header-text{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+.banner{
+    margin-top: 50px;
+}
+.apps-banner-title{
+    color:aliceblue;
+    font-weight: bold;
+}
+.apps-banner-info{
+    color:black;
+    font-weight: 600;
+}
+
+                    
+.button-icon{
+    color:#ffb800;
+    margin-top: 20px;
+}
+.icon{
+    width: 20px;
+}
+
+
+.card-title{
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    font-size: 40px;
+    text-shadow: 7px 10px 9px;
+
+}
+.card-title span{
+    color:lightseagreen;
+}
+
+.card-text{
+    color:lightseagreen;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.sandwitch-btn:hover color{
+    color:whitesmoke;
+    background: black;
+}
+
+.sandwitch-btn{
+    background:lightseagreen;
+    padding:5px 25px;
+    font-weight: bold;
+}
+
+.sandwitch-btn:hover{
+    background: black;
+    color: white;
+}
+
+
+.card-title2{
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    font-size: 40px;
+    text-shadow: 7px 10px 9px;
+}
+
+.card-title2 span{
+    color:#ffb30e
+}
+
+.sandwitch-btn2{
+    padding:5px 25px;
+    font-weight: bold;
+    background: #ffb30e;
+}
+.card-text2{
+    font-size: 20px;
+    font-weight: 500;
+    color:#ffb30e
+}
+
+.sandwitch-btn2:hover{
+    color:whitesmoke;
+    background: black;
+}
+
+.card-title3{
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    font-size: 40px;
+    text-shadow: 7px 10px 9px;
+}
+
+.card-title3 span{
+    color:#fb3c00;
+}
+
+.card-text3{
+    font-size: 20px;
+    font-weight: 500;
+    color:#fb3c00;
+}
+
+.sandwitch-btn3{
+    background:#fb3c00;
+    padding: 5px 25px;
+    font-weight: bold;
+}
+
+.sandwitch-btn3:hover {
+    background: black;
+    color:white
+
+}
+
+
+
+
+
+#order{
+    background-image: url(gallery/cta-two-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px ;
+}
+
+.order-title{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    margin-bottom: 20px;
+}
+.order-title h1
+{
+    font-weight: bold;
+    font-size: 45px;
+}
+
+
+.order-btn{
+    background: black;
+    color:white;
+    font-weight: bold;
+
+}
+
+.order-btn:hover{            
+    background:#fb3c00; 
+
+}
+
+ul li{
+    list-style: none;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+ul li:hover{
+    border-bottom: 1px solid white;
+}
+
+
+
+
+
+
+
+.footer-icon{
+    font-size: 30px;
+margin-right: 20px;
+color:silver
+}
+
+
+.mail-title h1{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.footer-text{
+    font-size: 25px;
+    font-weight: bold;
+    color:silver
+}
+
+.footer-mail-box{
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.footer-mail-box:hover{
+    background: none;
+    outline: none;
+    border: none;
+}
+
+
+.footer-mail{
+    background: silver;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+
+.footer-mail:hover{
+    border:1px solid #fb3c00
+}
+
+
+.mail-submit-btn{
+    background: #ffb30e;
+    font-weight: bold;
+    color: white;
+    border-radius: 10px;
+}
